@@ -207,3 +207,7 @@
     top: 3px;
     border: 2px solid transparent;
 }
+
+.hovered {
+    border: 2px dashed #8bb2f3;
+}
